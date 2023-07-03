@@ -1,0 +1,7 @@
+.MuiContainer-root {
+    background-color: #ACBCFF;
+    padding: 2%;
+    display: flex;
+    flex-direction: row;
+}
+
